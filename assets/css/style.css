@@ -1,0 +1,17 @@
+body {
+    background-color: #DDD;
+}
+
+.filme{
+    text-align: center;
+}
+
+.filme img {
+    height: 300px;
+    width: auto;
+    margin-bottom: 8px;
+}
+
+#mainbanner {
+    margin-top: 75px;
+}
